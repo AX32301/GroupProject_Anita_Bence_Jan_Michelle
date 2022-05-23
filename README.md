@@ -8,16 +8,18 @@ Michelle Nestola 19-614-650 <br/>
 
 ## Code Description:
 The programme can be found in 'Code' and must be executed on the user's own device. 
-###### Part 1 - Requesting and checking input data:
+#### Part 1 - Requesting and checking input data:
 
 
-###### Part 2 - Monte Carlo Simulation of stock price paths:
+#### Part 2 - Monte Carlo Simulation of stock price paths:
 
 
-###### Part 3 - Saving the simulation chart locally:
+The sock prices are modelled according to the Geometric Brownian Motion (GBM): 
+
+#### Part 3 - Saving the simulation chart locally:
 
 
-###### Part 4 - Saving the simulated stock prices locally in an Excel file:
+#### Part 4 - Saving the simulated stock prices locally in an Excel file:
 
 
 ## Sources:
