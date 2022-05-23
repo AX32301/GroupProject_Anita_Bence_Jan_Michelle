@@ -17,5 +17,5 @@ Michelle Nestola 19-614-650 <br/>
 ###### Part 3:
 
 ###### Final Comment:
-This code derives some underlying ideas from: Teo Bee Guan <br/>
+This code derives some underlying ideas from: Teo Bee Guan (2021) <br/>
 (https://github.com/teobeeguan/Python-For-Finance/blob/main/Time%20Series/RandomWalkSimulation.py) 
