@@ -8,16 +8,16 @@ Michelle Nestola 19-614-650 <br/>
 
 ## Code Description:
 
-###### Part 1 - Input data and checking input data:
-
-###### Part 2 - Calculation of core variables:
-
-###### Part 3 - Monte Carlo Simulation of Stock Price paths:
-
-###### Part 4 - :
+###### Part 1 - Requesting and checking input data:
 
 
-### Output:
+###### Part 2 - Monte Carlo Simulation of stock price paths:
+
+
+###### Part 3 - Saving the simulation chart locally:
+
+
+###### Part 4 - Saving the simulated stock prices locally in an Excel file:
 
 
 ###### Final Comment:
