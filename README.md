@@ -1,4 +1,4 @@
-# GroupProject_Anita_Bence_Jan_Michelle
+# Monte Carlo Simulation of Stock Prices (GroupProject_Anita_Bence_Jan_Michelle)
 
 ###### Authors:
 Anita Xhemaili 17-610-296; <br/>
