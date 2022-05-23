@@ -20,6 +20,10 @@ The programme can be found in 'Code' and must be executed on the user's own devi
 ###### Part 4 - Saving the simulated stock prices locally in an Excel file:
 
 
-###### Final Comment:
+###### Sources:
+Geometric Brownian Motion (Lecture Notes of the Course Derivatives at University of St. Gallen):
+Ammann, M. (2022). 5. Financial Engineering and Structured Products [PDF slides]. University of St. Gallen, Derivatives. Canvas: https://learning.unisg.ch
+
+
 This code derives some underlying ideas from: Teo Bee Guan (2021) <br/>
 (https://github.com/teobeeguan/Python-For-Finance/blob/main/Time%20Series/RandomWalkSimulation.py) 
