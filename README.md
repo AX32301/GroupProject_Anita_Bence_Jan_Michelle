@@ -8,13 +8,17 @@ Michelle Nestola 19-614-650 <br/>
 
 ## Code Description:
 
-###### Part 1:
+###### Part 1 - Input data and checking input data:
 
-###### Part 2:
+###### Part 2 - Calculation of core variables:
 
-###### Part 3:
+###### Part 3 - Monte Carlo Simulation of Stock Price paths:
 
-###### Part 4:
+###### Part 4 - :
+
+
+### Output:
+
 
 ###### Final Comment:
 This code derives some underlying ideas from: Teo Bee Guan (2021) <br/>
