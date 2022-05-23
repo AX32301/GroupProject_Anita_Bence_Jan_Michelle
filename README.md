@@ -7,7 +7,7 @@ Jan Lörtscher 19-615-905 <br/>
 Michelle Nestola 19-614-650 <br/>
 
 ## Code Description:
-
+The programme can be found under 'Code' and must be executed on the user's own device. 
 ###### Part 1 - Requesting and checking input data:
 
 
