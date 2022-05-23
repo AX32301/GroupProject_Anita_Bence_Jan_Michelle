@@ -7,7 +7,10 @@ Jan Lörtscher 19-615-905 <br/>
 Michelle Nestola 19-614-650 <br/>
 
 ## Code Description:
-The programme can be found in 'Code' and must be executed on the user's own device. 
+This program simulates future stock prices for a user-defined ticker.<br/>
+A chart of the simulated paths & an Excel file containing the data will be saved on the user's device.<br/>
+The programme can be found in 'Code' and must be executed on the user's own device. <br/>
+Before running the Code please make sure the following packages are installed: 
 #### Part 1 - Requesting and checking input data:
 
 
