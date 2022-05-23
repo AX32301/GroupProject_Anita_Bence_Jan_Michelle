@@ -11,6 +11,9 @@ This program simulates future stock prices for a user-defined ticker.<br/>
 A chart of the simulated paths & an Excel file containing the data will be saved on the user's device.<br/>
 The programme can be found in 'Code' and must be executed on the user's own device. <br/>
 Before running the Code please make sure the following packages are installed: yfinance, pandas, datetime, numpy, matplotlib.pyplot, math <br/>
+<br/>
+The programme is illustrated on the Tesla example with the following input parameters: ticker TSLA, start date 2020-01-01, forecast horizon 180 days, number of simulations 100
+<br/>
 #### Part 1 - Requesting and checking input data:
 Gathering user inputs: 
 The user has to specify the ticker, the starting date for the estimation of mean historical returns & volatility, the forecast horizon(T) and the number of simulations (simruns). <br/>
@@ -19,18 +22,19 @@ Apart from all other input variables, the ticker variable is checked by the yfin
 At the end of Part 1 some core variables are calculated. For example, historical data for the specified ticker is gathered from Yahoo Finance, or daily stock returns are calculated. <br/>
 #### Part 2 - Monte Carlo Simulation of stock price paths:
 In the simulation, the outer loop(x) initiates the different simulations and the inner loop(y) calculates the daily future values. <br/>
-The sock prices are modelled according to the Geometric Brownian Motion (GBM): ![GeometricBrownianMotion Formula](/GBM.PNG)
+The sock prices are modelled according to the Geometric Brownian Motion (GBM): <br/> ![GeometricBrownianMotion Formula](/GBM.PNG)
 <br/>
 #### Part 3 - Saving the simulation chart locally:
 The figure containing the stock price simulations is displayed and saved locally as a plot.<br/>
-This is an example of such a figure:
+This is an example of such a figure for the Tesla example: <br/>
 ![SimulationChart Tesla](/SimulationChart.png)
 <br/>
 #### Part 4 - Saving the simulated stock prices locally in an Excel file:
 The expected value of the stock at day T as the mean of all simulated final values is calculated. <br/>
 Furthermore, a dates-column is added to the output table. <br/>
 Lastly, the output table is saved locally as an Excel file, such that the simualted stock prices can be used for further analyses. <br/>
-<br/>
+This is an example of such an output table for the Tesla example: <br/>
+![SimulationTable Tesla](/SimulationTable.jpeg)
 <br/>
 ## Sources:
 Geometric Brownian Motion (lecture notes of the course 'Derivatives' at University of St. Gallen):<br/>
