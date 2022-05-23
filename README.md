@@ -21,9 +21,9 @@ The programme can be found in 'Code' and must be executed on the user's own devi
 
 
 ###### Sources:
-Geometric Brownian Motion (Lecture Notes of the Course Derivatives at University of St. Gallen):
-Ammann, M. (2022). 5. Financial Engineering and Structured Products [PDF slides]. University of St. Gallen, Derivatives. Canvas: https://learning.unisg.ch
+Geometric Brownian Motion (Lecture notes of the course Derivatives at University of St. Gallen):
+Ammann, M. (2022). *4. Black-Scholes* [PDF slides]. University of St. Gallen, Derivatives. Canvas: https://learning.unisg.ch
 
-
-This code derives some underlying ideas from: Teo Bee Guan (2021) <br/>
-(https://github.com/teobeeguan/Python-For-Finance/blob/main/Time%20Series/RandomWalkSimulation.py) 
+Some theoretical background:
+Guan, B. T. (2021, September 19). *Simulating Random Walk of Stock Prices with Monte Carlo Simulation in Python*. Medium. https://medium.com/the-handbook-of-coding-in-finance/simulating-random-walk-of-stock-prices-with-monte-carlo-simulation-in-python-6e233d841e
+Harper, D. R. (2022, January 21). *How to Use Monte Carlo Simulation With GBM*. Investopedia. https://www.investopedia.com/articles/07/montecarlo.asp
