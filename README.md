@@ -1,4 +1,4 @@
-# Monte Carlo Simulation of Stock Prices
+# Monte Carlo Simulation
 
 ###### Authors:
 Anita Xhemaili 17-610-296; <br/>
