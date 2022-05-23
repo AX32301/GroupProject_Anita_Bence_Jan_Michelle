@@ -6,15 +6,13 @@ Bence Szij 21-603-394; <br/>
 Jan Lörtscher 19-615-905; <br/>
 Michelle Nestola 19-614-650; <br/>
 
+## Code Description:
 
+###### Part 1:
 
+###### Part 2:
 
-
-
-
-
-
-
+###### Part 3:
 
 
 
