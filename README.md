@@ -29,9 +29,10 @@ This is an example of such a figure:
 The expected value of the stock at day T as the mean of all simulated final values is calculated. <br/>
 Furthermore, a dates-column is added to the output table. <br/>
 Lastly, the output table is saved locally as an Excel file, such that the simualted stock prices can be used for further analyses. <br/>
-
+<br/>
+<br/>
 ## Sources:
-Geometric Brownian Motion (Lecture notes of the course Derivatives at University of St. Gallen):<br/>
+Geometric Brownian Motion (lecture notes of the course 'Derivatives' at University of St. Gallen):<br/>
 Ammann, M. (2022). *4. Black-Scholes* [PDF slides]. University of St. Gallen, Derivatives. Canvas: https://learning.unisg.ch
 
 Some theoretical background:<br/>
