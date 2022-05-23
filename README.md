@@ -1,4 +1,4 @@
-# Monte Carlo Simulation
+# Monte Carlo Simulation of Stock Prices
 
 ###### Authors:
 Anita Xhemaili 17-610-296 <br/>
@@ -14,18 +14,7 @@ Michelle Nestola 19-614-650 <br/>
 
 ###### Part 3:
 
-
-
-
-
-
-
-
-
-
-
-
-
+###### Part 3:
 
 ###### Final Comment:
 This code derives some underlying ideas from: Teo Bee Guan <br/>
