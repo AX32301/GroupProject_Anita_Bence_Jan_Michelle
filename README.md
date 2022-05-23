@@ -14,7 +14,7 @@ Michelle Nestola 19-614-650 <br/>
 
 ###### Part 3:
 
-###### Part 3:
+###### Part 4:
 
 ###### Final Comment:
 This code derives some underlying ideas from: Teo Bee Guan (2021) <br/>
