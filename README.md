@@ -23,7 +23,8 @@ The sock prices are modelled according to the Geometric Brownian Motion (GBM):
 <br/>
 #### Part 3 - Saving the simulation chart locally:
 The figure containing the stock price simulations is displayed and saved locally as a plot.<br/>
-This is an example of such a figure: 
+This is an example of such a figure:
+#![SimulationChar Tesla]()
 <br/>
 #### Part 4 - Saving the simulated stock prices locally in an Excel file:
 The expected value of the stock at day T as the mean of all simulated final values is calculated. <br/>
