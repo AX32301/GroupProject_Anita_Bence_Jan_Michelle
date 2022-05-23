@@ -4,7 +4,7 @@ import datetime as dt
 import numpy as np
 import matplotlib.pyplot as plt
 import math
-import csv
+
 
 #MONTE CARLO SIMULATION
 #This program simulates future stock prices for a user-defined ticker.
