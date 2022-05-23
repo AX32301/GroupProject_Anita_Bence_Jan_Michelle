@@ -1,10 +1,10 @@
 # Monte Carlo Simulation
 
 ###### Authors:
-Anita Xhemaili 17-610-296; <br/>
-Bence Szij 21-603-394; <br/>
-Jan Lörtscher 19-615-905; <br/>
-Michelle Nestola 19-614-650; <br/>
+Anita Xhemaili 17-610-296 <br/>
+Bence Szij 21-603-394 <br/>
+Jan Lörtscher 19-615-905 <br/>
+Michelle Nestola 19-614-650 <br/>
 
 ## Code Description:
 
@@ -27,6 +27,6 @@ Michelle Nestola 19-614-650; <br/>
 
 
 
-###### Comment:
+###### Final Comment:
 This code derives some underlying ideas from: Teo Bee Guan <br/>
 (https://github.com/teobeeguan/Python-For-Finance/blob/main/Time%20Series/RandomWalkSimulation.py) 
