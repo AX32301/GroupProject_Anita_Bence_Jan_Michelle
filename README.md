@@ -20,7 +20,7 @@ The programme can be found in 'Code' and must be executed on the user's own devi
 ###### Part 4 - Saving the simulated stock prices locally in an Excel file:
 
 
-###### Sources:
+## Sources:
 Geometric Brownian Motion (Lecture notes of the course Derivatives at University of St. Gallen):<br/>
 Ammann, M. (2022). *4. Black-Scholes* [PDF slides]. University of St. Gallen, Derivatives. Canvas: https://learning.unisg.ch
 
