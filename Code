@@ -15,7 +15,7 @@ import csv
 #The user has to specify the ticker, the starting date for the estimation of mean historical returns & volatility, the forecast horizon(T) and the number of simulations (simruns).
 #The user inputs get checked for correct format. In case of an error, the input request is repeated.
 
-ticker = input("Please enter the ticker: ")
+ticker = input("Please enter the ticker (e.g. TSLA): ")
 #The ticker variable is checked by the yfinance formula. In case of an invalid ticker, an error will be displayed.
 end=dt.date.today()
 
