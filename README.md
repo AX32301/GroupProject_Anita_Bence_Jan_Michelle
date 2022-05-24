@@ -23,18 +23,18 @@ Apart from all other input variables, the ticker variable is checked by the yfin
 At the end of Part 1 some core variables are calculated. For example, historical data for the specified ticker is gathered from Yahoo Finance, or daily stock returns are calculated. <br/>
 #### Part 2 - Monte Carlo Simulation of stock price paths:
 In the simulation, the outer loop(x) initiates the different simulations and the inner loop(y) calculates the daily future values. <br/>
-The sock prices are modelled according to the Geometric Brownian Motion (GBM): <br/> ![GeometricBrownianMotion Formula](/GBM.PNG)
+The stock prices are modelled according to the Geometric Brownian Motion (GBM): <br/> ![GeometricBrownianMotion Formula](/GBM.PNG)
 <br/>
 #### Part 3 - Saving the simulation chart locally:
 The figure containing the stock price simulations is displayed and saved locally as a plot.<br/>
-This is an example of such a figure for the Tesla example: <br/>
+This is an example of such a figure for the Tesla simulation: <br/>
 ![SimulationChart Tesla](/SimulationChart.png)
 <br/>
 #### Part 4 - Saving the simulated stock prices locally in an Excel file:
 The expected value of the stock at day T as the mean of all simulated final values is calculated. <br/>
 Furthermore, a dates-column is added to the output table. <br/>
-Lastly, the output table is saved locally as an Excel file, such that the simualted stock prices can be used for further analyses. <br/>
-This is an example of such an output table for the Tesla example: <br/>
+Lastly, the output table is saved locally as an Excel file, such that the simualated stock prices can be used for further analyses. <br/>
+This is an example of such an output table for the Tesla simulation: <br/>
 ![SimulationTable Tesla](/SimulationTable.jpeg)
 <br/>
 ## Sources:
