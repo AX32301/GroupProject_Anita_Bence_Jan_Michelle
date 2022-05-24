@@ -33,7 +33,7 @@ This is an example of such a figure for the Tesla simulation: <br/>
 #### Part 4 - Saving the simulated stock prices locally in an Excel file:
 The expected value of the stock at day T as the mean of all simulated final values is calculated. <br/>
 Furthermore, a dates-column is added to the output table. <br/>
-Lastly, the output table is saved locally as an Excel file, such that the simualated stock prices can be used for further analyses. <br/>
+Lastly, the output table is saved locally as an Excel file, such that the simulated stock prices can be used for further analyses. <br/>
 This is an example of such an output table for the Tesla simulation: <br/>
 ![SimulationTable Tesla](/SimulationTable.jpeg)
 <br/>
